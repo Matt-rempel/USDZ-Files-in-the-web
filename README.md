@@ -2,8 +2,9 @@
 A quick demonstration of using USDZ files in the web.
 
 You can view the demo [here](https://matt-rempel.github.io/USDZ-Files-in-the-web/index.html)
+You can also visit Apple's AR Quick Look Gallery [here](https://developer.apple.com/arkit/gallery/)
 
 
 
 # Note
-usdz files are only compatible with AR Quicklook in iOS 12 or later.
+usdz files are only compatible with AR Quick Look in iOS 12 or later.
