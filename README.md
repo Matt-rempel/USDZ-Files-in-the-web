@@ -3,7 +3,7 @@ A quick demonstration of using USDZ files in the web.
 
 <img src="demo.gif" width="350">
 
-You can view the demo [here](https://matt-rempel.github.io/USDZ-Files-in-the-web/index.html | width=100)
+You can view the demo [here](https://matt-rempel.github.io/USDZ-Files-in-the-web/index.html)
 
 You can also visit Apple's AR Quick Look Gallery [here](https://developer.apple.com/arkit/gallery/)
 
