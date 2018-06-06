@@ -1,7 +1,7 @@
 # USDZ-Files-in-the-web
 A quick demonstration of using USDZ files in the web.
 
-<img src="demo.gif" width="100">
+<img src="demo.gif" width="350">
 
 You can view the demo [here](https://matt-rempel.github.io/USDZ-Files-in-the-web/index.html | width=100)
 
